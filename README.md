@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=191970&customColorList=0&height=300&section=header&text=Chaewon_Oh&fontColor=FFD700&animation=twinkling&stroke=FFA07A&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=191970&customColorList=0&height=200&section=header&text=Chaewon_Oh&fontColor=FFD700&animation=twinkling&stroke=FFA07A&strokeWidth=3&desc=STUDY%20BIGDATA%20&descAlign=65&descAlignY=72&fontAlignY=48&descSize=25)
 
-😄 I'm chaewon Oh
+## 🔧Tech Stack </p>
+![python](https://img.shields.io/badge/python-F0F8FF?style=flat-square&logo=#3776AB&logoColor=white)   
 
 
+
+## MAIL</p>
+![Gmail](https://img.shields.io/badge/Gmail-FFE4E1?style=flat-square)
