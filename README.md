@@ -2,9 +2,4 @@
 
 😄 I'm chaewon Oh
 
-<p align = 'center'> Tech Stack 
-<p align = 'center'>
-    ![](https://img.shields.io/badge/python-F0F8FF?style=flat-square&logo=#3776AB&logoColor=white) 
-<p align = 'center'> 📫 * * * 
-    ![](https://img.shields.io/badge/Gmail-FFE4E1?style=flat-square) 
 
