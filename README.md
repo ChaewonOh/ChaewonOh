@@ -6,4 +6,4 @@
 
 
 ## MAIL</p>
-![Gmail](https://img.shields.io/badge/Gmail-FFE4E1?style=flat-square)
+![Gmail : cwon1115@gmail.com](https://img.shields.io/badge/Gmail-FFE4E1?style=flat-square)
